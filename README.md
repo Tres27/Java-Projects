@@ -1,5 +1,5 @@
 # Java-Projects
-In this repository I will have the different projects I have made with the help of the java programming language.
+In this repository I will have the different projects I have made with the help of the java programming language. All the projects were written in BlueJ.
 
 Project 1 - In this project I just wrote a Java program to print an ASCII art.
 
